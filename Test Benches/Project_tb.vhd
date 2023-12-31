@@ -1,5 +1,5 @@
 
--------------Two Digit Up Down Counter Application: Test Bench-------------
+-------------Two Digit Up Down Counter Application: Test Bench------------- 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
