@@ -1,4 +1,4 @@
--------------Two Digit Up Down Counter Application: RTL-------------
+-------------Two Digit Up Down Counter Application: RTL------------- 
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
