@@ -1,4 +1,4 @@
-# Two-Digit-Up-Down-Counter
+# Two Digit Up Down Counter
 
 The project structure consists of four modules:
 
